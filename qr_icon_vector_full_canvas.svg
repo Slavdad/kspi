@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536" role="img" aria-label="QR scan icon">
+  <defs>
+    <style>
+      .outer { fill: none; stroke: #2F557F; stroke-width: 35; stroke-linecap: round; stroke-linejoin: round; }
+      .inner { fill: none; stroke: #B9CCE4; stroke-width: 25; stroke-linecap: round; stroke-linejoin: round; }
+      .frameOuter { fill: none; stroke: #2F557F; stroke-width: 18; stroke-linecap: round; stroke-linejoin: round; }
+      .frameInner { fill: none; stroke: #B9CCE4; stroke-width: 10; stroke-linecap: round; stroke-linejoin: round; }
+      .cellOuter { fill: none; stroke: #2F557F; stroke-width: 16; stroke-linecap: square; stroke-linejoin: miter; }
+      .cellInner { fill: none; stroke: #B9CCE4; stroke-width: 8; stroke-linecap: square; stroke-linejoin: miter; }
+    </style>
+  </defs>
+  <g id="qr-scan-icon" shape-rendering="geometricPrecision">
+    <path class="outer" d="M439 585 H384 Q371 585 371 598 V656"/>
+    <path class="outer" d="M585 585 H640 Q653 585 653 598 V656"/>
+    <path class="outer" d="M372 793 V852 Q372 862 384 862 H439"/>
+    <path class="outer" d="M652 793 V852 Q652 862 640 862 H585"/>
+    <rect class="frameOuter" x="419" y="631" width="79" height="78" rx="8" ry="8"/>
+    <rect class="frameOuter" x="526" y="631" width="79" height="77" rx="8" ry="8"/>
+    <rect class="frameOuter" x="419" y="735" width="79" height="80" rx="8" ry="8"/>
+    <rect class="frameOuter" x="526" y="735" width="43" height="50" rx="8" ry="8"/>
+    <rect class="frameOuter" x="554" y="763" width="51" height="51" rx="8" ry="8"/>
+    <rect class="cellOuter" x="446" y="657" width="24" height="25" rx="0" ry="0"/>
+    <rect class="cellOuter" x="553" y="657" width="24" height="25" rx="0" ry="0"/>
+    <rect class="cellOuter" x="446" y="761" width="24" height="25" rx="0" ry="0"/>
+    <rect class="cellOuter" x="553" y="761" width="24" height="25" rx="0" ry="0"/>
+    <path class="inner" d="M439 585 H384 Q371 585 371 598 V656"/>
+    <path class="inner" d="M585 585 H640 Q653 585 653 598 V656"/>
+    <path class="inner" d="M372 793 V852 Q372 862 384 862 H439"/>
+    <path class="inner" d="M652 793 V852 Q652 862 640 862 H585"/>
+    <rect class="frameInner" x="419" y="631" width="79" height="78" rx="8" ry="8"/>
+    <rect class="frameInner" x="526" y="631" width="79" height="77" rx="8" ry="8"/>
+    <rect class="frameInner" x="419" y="735" width="79" height="80" rx="8" ry="8"/>
+    <rect class="frameInner" x="526" y="735" width="43" height="50" rx="8" ry="8"/>
+    <rect class="frameInner" x="554" y="763" width="51" height="51" rx="8" ry="8"/>
+    <rect class="cellInner" x="446" y="657" width="24" height="25" rx="0" ry="0"/>
+    <rect class="cellInner" x="553" y="657" width="24" height="25" rx="0" ry="0"/>
+    <rect class="cellInner" x="446" y="761" width="24" height="25" rx="0" ry="0"/>
+    <rect class="cellInner" x="553" y="761" width="24" height="25" rx="0" ry="0"/>
+  </g>
+</svg>
